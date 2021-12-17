@@ -2,7 +2,7 @@ Data diri
 
 Nama : Aulia Octaviani
 Pendidikan : S1 Pendidikan Fisika
-Bahasa Pemrograman : Python, Go
+Bahasa Pemrograman : Python, Go, java
 Stack : Back End
 Project :
 	andrroid app (android native, projek dosen)
