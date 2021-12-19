@@ -1,0 +1,56 @@
+Perbedaan tools trello vs jira vs youtrack
+
+Trello :
+- alur pengerjaan 
+    1. buka trello -> sign up / log in 
+    2. Buat tim 
+    3. buat board
+    4. buat list
+    5. tambahkan card
+
+- kelebihan 
+    1. apabila seseorang mengubah sesuatu, perubahan itu juga akan dilihat oleh siapa pun, tanpa perlu menunggu
+    2. mudah dalam menambah atau mengurangi orang dalam suatu proyek
+    3. desain yang responsif dan mudah digunakan
+    4. sistem notifikasi yang baik
+    5. tak perlu aplikasi atau tools tambahan untuk mengirim dokumen atau menulis keterangan mengenai suatu proyek
+-kekurangan 
+    1. harus selalu terkoneksi dengan internet
+    2. tidak bisa melakukan pengubahan atau edit komentar
+    3. aplikasinya berbayar
+    4. apabila proyek atau tugas semakin banyak, pengaturan tugas tetap sulit dilakukan
+
+
+jira
+-alur 
+    1. log in 
+    2. buat proyek
+    3. pilih template
+    4. undang tim 
+    5. backlog
+    6. penylesaian
+-kelebihan 
+    1. adanya template untuk mempermudah pemberian tugas
+    2. dukungan komunitas dan pelatihan yang mumpuni
+    3. mudah digunakan dan intuitif
+-kekurangan
+    1. dukungan penggunaan website yang lambat
+    2. masih adanya eror pada fitur-fitur baru
+    3. harga yang kurang kompetitif
+
+youtrack 
+-alur
+    1. log in
+    2. cari project 
+    3. kerjakan
+-kelebihan
+    1. terintegrasi dengan CI/CD
+    2. dapat di sesuaikan dengan kebutuhan secara spesifik
+    3. mendukung java 11
+-kekurangan
+    1. masih asing 
+
+
+kesimpulan
+1. menurut saya yang lebih mudah digunakan yang trello
+2. dari segi tampilan yang mirip dengan tiketing refactory adalah trello sedangkan sistem yang ada evaluasinya jira
